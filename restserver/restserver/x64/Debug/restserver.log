@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  restserver.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\pthread.h(320): error C2011: 'timespec': nueva definición del tipo 'struct'
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(39): note: vea la declaración de 'timespec'

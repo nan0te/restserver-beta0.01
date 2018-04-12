@@ -1,0 +1,5 @@
+﻿  restserver.cpp
+c:\users\n\desktop\serverrest-beta0.01\restserver\restserver\restserver.cpp(41): warning C4101: 'threadID': variable local sin referencia
+c:\users\n\desktop\serverrest-beta0.01\restserver\restserver\restserver.cpp(42): warning C4101: 'threadargs': variable local sin referencia
+  restserver.vcxproj -> C:\Users\N\Desktop\ServerREST-beta0.01\restserver\Debug\restserver.exe
+  restserver.vcxproj -> C:\Users\N\Desktop\ServerREST-beta0.01\restserver\Debug\restserver.pdb (Full PDB)
